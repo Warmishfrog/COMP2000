@@ -1,5 +1,5 @@
-# comp2000-main-assignment-Warmishfrog
-comp2000-main-assignment-Warmishfrog created by GitHub Classroom
+# comp2000_70pcnt
+comp2000_70pcnt created by GitHub Classroom
 
 
 This is my Comp2000 70pcnt Submission
