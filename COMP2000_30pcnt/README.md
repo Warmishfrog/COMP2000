@@ -1,5 +1,5 @@
-# setexercises-Warmishfrog
-setexercises-Warmishfrog created by GitHub Classroom
+# COMP2000_30PCNT
+COMP2000_30PCNT created by GitHub Classroom
 THIS IS MY README
 
 The app is able to be logged into with a correct login.
